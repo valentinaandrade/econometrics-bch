@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 Clases
+linkTitle: Clases
+summary: En este sitio podrán encontrar los materiales de cada una de las sesiones de clases
+date: '2022-01-01'
 type: book
 tags:
   - current
