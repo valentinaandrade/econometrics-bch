@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: "Econometría - Banco Central Honduras"
 hero_media: teacher.png
 design:
   background:
