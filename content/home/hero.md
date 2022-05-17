@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Econometrics - Banco Central Honduras
+title: Econometrics Banco Central Honduras
 hero_media: teacher.png
 design:
   background:
@@ -16,7 +16,7 @@ cta:
   icon_pack: fas
   icon: user-graduate
 cta_alt: Programa
-  url: "assets/media"
+  url: 
   label:
 cta_note:
   label:
