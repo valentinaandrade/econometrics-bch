@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Materiales del curso
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Todas las sesiones
       tag: '*'
-    - name: Previous
+    - name: Anteriores
       tag: previous
-    - name: Current
+    - name: Presentes
       tag: current
 design:
   columns: '1'
