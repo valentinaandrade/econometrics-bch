@@ -1,5 +1,5 @@
 ---
-title: Statistics
+title: Inferencia
 date: '2021-01-01'
 type: book
 weight: 40

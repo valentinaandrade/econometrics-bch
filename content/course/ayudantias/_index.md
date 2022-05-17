@@ -1,7 +1,7 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 🤖 Ayudantías
+linkTitle: Ayudantías
+summary: En esta sección encontrarás los materiales de ayudantía 
 date: '2021-01-24'
 type: book
 tags:
