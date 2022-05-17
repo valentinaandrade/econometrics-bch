@@ -15,7 +15,7 @@ cta:
   label: Explore our courses
   icon_pack: fas
   icon: user-graduate
-cta_alt: Programa
+cta_alt: 
   url: 
   label:
 cta_note:
