@@ -3,6 +3,9 @@ title: Probabilidades
 date: 2022-06-09
 ---
 
+[Descargar presentación](https://econometrics-bch.netlify.app/repaso/repaso_probabilidades.pdf)
+
+
 La teoría de probabilidades constituye uno de los pilares para la econometría. En la siguiente presentación mostramos alguno de los conceptos que debes manejar antes de iniciar el curso de estadística
 
 1. Definiciones básicas
@@ -19,4 +22,11 @@ La teoría de probabilidades constituye uno de los pilares para la econometría.
 
 - Covarianza
 
-[Descargar presentación](https://econometrics-bch.netlify.app/repaso/probabilidades.pdf)
+
+<html>
+<body>
+    <object data="https://econometrics-bch.netlify.app/repaso/repaso_probabilidades.pdf" type="application/pdf">
+        <div>No online PDF viewer installed</div>
+    </object>
+</body>
+</html>
