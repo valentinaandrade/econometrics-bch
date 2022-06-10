@@ -12,28 +12,31 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Organización
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- En la ayudantía desarrollaremos ejercicios *ad hoc* al avance de cada sesión de clase
 
-## Program overview
+- Al final de cada ayudantía se mostrará la tarea asociada a la ayudantía
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+## Tareas
 
-## Courses in this program
+- Las tareas son ejercicios que deben hacer los estudiantes por su cuenta
+
+- Pueden ser realizados en grupos de máximo 3 personas
+
+- Deben ser entregados a más tardar el día domingo 19 de junio, a las 23.59 horas al correo del profesor y ayudante. 
+
+*Para más información ver el [programa](programa_curso.pdf)*
+
+## Sesiones de ayudantía
 
 {{< list_children >}}
 
-## Meet your instructor
 
-{{< mention "admin" >}}
+## Recomendaciones
 
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="¿Qué recomendamos antes de iniciar el curso?" >}}
+Un manejo básico de probabilidades, inferencia y algebra matricial. Para más ver la sección ["Materiales"](/post/)
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
