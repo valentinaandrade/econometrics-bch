@@ -1,6 +1,6 @@
 ---
 title: Regresión múltiple
-date: '2022-06-10'
+date: '2022-06-15'
 type: book
 weight: 40
 math: true
