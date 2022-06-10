@@ -1,6 +1,6 @@
 ---
 widget: featurette
-headless: true
+headless: false
 weight: 20
 title: Materiales
 subtitle: ✨  que encontrarás en esta pagina
@@ -11,7 +11,7 @@ feature:
     description:
   - icon: video
     icon_pack: fas
-    name: Video
+    name: Ayudantías
     description:
   - icon: code
     icon_pack: fas
