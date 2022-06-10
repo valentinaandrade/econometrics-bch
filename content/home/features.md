@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: false
-weight: 20
+weight: 90
 title: Materiales
 subtitle: ✨  que encontrarás en esta pagina
 feature:
