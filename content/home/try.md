@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./course/" cta_text="Descargar" %}}
+{{% cta cta_link="programa_curso.pdf" cta_text="Descargar" %}}
