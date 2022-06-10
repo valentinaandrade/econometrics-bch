@@ -8,3 +8,9 @@ tags:
   - Stata
 ---
 
+
+## Quiz
+
+{{< spoiler text="Quiz" >}}
+The parameter $\mu$ is the mean or expectation of the distribution.
+{{< /spoiler >}}
