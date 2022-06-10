@@ -58,6 +58,11 @@ En este curso estudiaremos cómo evaluar hipótesis económicas usando datos. Se
 
 ![](cronograma.png)
 
+
+## Bibliografía:
+
+Wooldridge, J. (2015), Introducción a la Econometría: Un Enfoque Moderno. Cengage Learning, 5ta edición.
+
 ## Administrativos
 
 {{< spoiler text="Tiene pre-requisitos?" >}}
@@ -85,3 +90,5 @@ Los alumnos deberán asistir a todas clases y ayudantías, siempre con sus cáma
 {{< list_children >}}
 
 {{< cta cta_text="Ver material de clase" cta_link="bloque1" >}}
+
+{{< cta cta_text="Ver material de clase" cta_link="https://econometrics-bch.netlify.app/programa_curso.pdf" >}}
