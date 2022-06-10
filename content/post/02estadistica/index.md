@@ -1,6 +1,6 @@
 ---
 title: 3. Estadística
-date: 2022-06-08
+date: 2022-06-09
 ---
 
 {{< cta cta_text="Descargar material de Estadística" cta_link="https://econometrics-bch.netlify.app/repaso/repaso_estadistica.pdf" >}}
