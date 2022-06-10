@@ -1,17 +1,13 @@
 ---
 title: Introducción
-date: '2022-06-11'
+date: '2022-06-10'
 type: book
 weight: 20
 ---
 
 # Bienvenidos al curso de Econometría
 
-<!--more-->
-
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
-## Learn
-
-{{< youtube rfscVS0vtbw >}}
+{{< callout note >}}
+Te recomendamos revisar el [material complementario](https://econometrics-bch.netlify.app/post/) antes de la primera clase
+{{< /callout >}}
 

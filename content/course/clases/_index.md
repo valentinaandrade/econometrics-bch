@@ -22,6 +22,10 @@ En este curso estudiaremos cómo evaluar hipótesis económicas usando datos. Se
 
 ## **Contenidos:**
 
+{{< callout note >}}
+Te recomendamos revisar el [material complementario](https://econometrics-bch.netlify.app/post/) antes de la primera clase
+{{< /callout >}}
+
 **Clase 1: (3 horas, capítulos 2 y 3)**
 
 - Regresión como esperanza condicional.
@@ -65,8 +69,8 @@ Wooldridge, J. (2015), Introducción a la Econometría: Un Enfoque Moderno. Ceng
 
 ## Administrativos
 
-{{< spoiler text="Tiene pre-requisitos?" >}}
-El curso supone un nivel de estadística y álgebra lineal equivalente al que se presenta en los apéndices B, C y D del texto de Wooldridge. También pueden encontrar material de apoyo en el sitio web del curso.
+{{< spoiler text="¿Tiene pre-requisitos?" >}}
+El curso supone un nivel de estadística y álgebra lineal equivalente al que se presenta en los apéndices B, C y D del texto de Wooldridge. Pueden encontrar el material de apoyo en la sección ["Materiales"](/post/)
 {{< /spoiler >}}
 
 {{< spoiler text="¿Cuánto dura el curso?" >}}
@@ -85,7 +89,7 @@ Passcode: 422648
 Los alumnos deberán asistir a todas clases y ayudantías, siempre con sus cámaras encendidas.
 {{< /spoiler >}}
 
-## Courses in this program
+## Sesiones en este curso
 
 {{< list_children >}}
 

@@ -1,6 +1,6 @@
 ---
-title: Probabilidades
-date: 2022-06-09
+title: 1. Probabilidades
+date: 2022-06-08
 ---
 
 {{< cta cta_text="Descargar material de Probabilidades" cta_link="https://econometrics-bch.netlify.app/repaso/repaso_probabilidades.pdf" >}}
