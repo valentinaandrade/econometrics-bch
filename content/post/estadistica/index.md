@@ -3,8 +3,7 @@ title: Estadística
 date: 2022-06-09
 ---
 
-[Descargar presentación](https://econometrics-bch.netlify.app/repaso/repaso_estadistica.pdf)
-
+{{< cta cta_text="Descargar material de Estadística" cta_link="https://econometrics-bch.netlify.app/repaso/repaso_estadistica.pdf" >}}
 
 **1. Propiedades de los estimadores**
 
