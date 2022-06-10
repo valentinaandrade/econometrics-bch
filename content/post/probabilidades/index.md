@@ -22,4 +22,4 @@ La teoría de probabilidades constituye uno de los pilares para la econometría.
 
 - Covarianza
 
-{{< embed-pdf url="https://econometrics-bch.netlify.app/repaso/repaso_probabilidades.pdf" >}}
+<iframe src="https://econometrics-bch.netlify.app/repaso/repaso_probabilidades.pdf"></iframe>
