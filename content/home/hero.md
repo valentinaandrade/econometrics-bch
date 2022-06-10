@@ -20,6 +20,4 @@ cta_alt:
   label:
 cta_note:
   label:
-advanced:
-  css_class: fullscreen
 ---
