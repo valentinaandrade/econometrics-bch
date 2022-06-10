@@ -12,32 +12,76 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Descripción del curso
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+En este curso estudiaremos cómo evaluar hipótesis económicas usando datos. Se estudiará el modelo de regresión lineal como una estimación de la esperanza condicional y sus propiedades
 
-## Program overview
+## Profesor
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+{{< mention "admin" >}}
+
+## **Contenidos:**
+
+**Clase 1: (3 horas, capítulos 2 y 3)**
+
+- Regresión como esperanza condicional.
+
+- Estimación del modelo de regresión lineal.
+
+- Propiedades algebraicas del estimador de MCO.
+
+**Clase 2: (3 horas, capítulos 3 y 4)**
+
+- Propiedades estadísticas del estimador de MCO.
+
+- Inferencia sobre un parámetro.
+
+- Inferencia sobre un conjunto de parámetros.
+
+**Clase 3: (1 hora, capítulo 6)**
+
+- Forma funcional y especificación: logaritmos, potencias e interacciones.
+
+**Clase 4: (1 hora, capítulo 7)**
+
+- Variables binarias independientes.
+
+**Clase 5: (2 horas, capítulos 8 y 12)**
+
+- Heterocedasticidad.
+
+- Correlación serial o autocorrelación.
+
+**Clase 6: (2 horas, capítulos 3 y 9)**
+
+- Omisión de variables relevantes
+
+![](cronograma.png)
+
+## Administrativos
+
+{{< spoiler text="Tiene pre-requisitos?" >}}
+El curso supone un nivel de estadística y álgebra lineal equivalente al que se presenta en los apéndices B, C y D del texto de Wooldridge. También pueden encontrar material de apoyo en el sitio web del curso.
+{{< /spoiler >}}
+
+{{< spoiler text="¿Cuánto dura el curso?" >}}
+El curso tendrá una duración de 18 horas, distribuidas en 6 clases de 3 horas cada una. Para más información respecto de las horas de clase y ayudantía, por favor revisar el cronograma adjunto
+{{< /spoiler >}}
+
+{{< spoiler text="¿Zoom del curso?" >}}
+Las clases serán a través de la plataforma Zoom, usando el siguiente link:
+https://zoom.us/j/92744480730?pwd=U1FlckhGNE5IZmhvdW50dVNQTjk0UT09
+Meeting ID: 927 4448 0730
+Passcode: 422648
+{{< /spoiler >}}
+
+
+{{< spoiler text="¿Existe alguna regla importante?" >}}
+Los alumnos deberán asistir a todas clases y ayudantías, siempre con sus cámaras encendidas.
+{{< /spoiler >}}
 
 ## Courses in this program
 
 {{< list_children >}}
 
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Ver material de clase" cta_link="bloque1" >}}
