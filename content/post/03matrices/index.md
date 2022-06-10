@@ -1,5 +1,5 @@
 ---
-title: 2. Matrices
+title: 3. Matrices
 date: 2022-06-08
 ---
 

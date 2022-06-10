@@ -1,5 +1,5 @@
 ---
-title: 3. Estadística
+title: 2. Estadística
 date: 2022-06-09
 ---
 
