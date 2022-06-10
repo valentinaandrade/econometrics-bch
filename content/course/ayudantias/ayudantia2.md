@@ -1,6 +1,6 @@
 ---
 title: Inferencia
-date: '2021-01-01'
+date: '2022-06-15'
 type: book
 weight: 40
 math: true
