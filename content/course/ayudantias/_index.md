@@ -39,8 +39,8 @@ tags:
 Un manejo básico de probabilidades, inferencia y algebra matricial. Para más ver la sección ["Materiales"](/post/)
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="¿Cómo estudiar para las evaluaciones?" >}}
+Desarrollar los ejercicios y tareas de ayudantía será de gran utilidad para tu aprendizaje
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Revisar ayudantías" cta_link="ayudantia1" >}}
