@@ -18,6 +18,8 @@ tags:
 
 - Al final de cada ayudantía se mostrará la tarea asociada a la ayudantía
 
+![](cronograma.png)
+
 ## Tareas
 
 - Las tareas son ejercicios que deben hacer los estudiantes por su cuenta
