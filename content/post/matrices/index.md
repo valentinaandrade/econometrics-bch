@@ -3,7 +3,7 @@ title: Matrices
 date: 2022-06-09
 ---
 
-[Descargar presentación](https://econometrics-bch.netlify.app/repaso/repaso_matrices.pdf)
+{{< cta cta_text="Descargar material" cta_link="https://econometrics-bch.netlify.app/repaso/repaso_matrices.pdf" >}}
 
 
 **1. Definiciones básicas**
