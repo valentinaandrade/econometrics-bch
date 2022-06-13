@@ -1,6 +1,6 @@
 ---
 title: Transformaciones funcionales
-date: '2022-06-16'
+date: '2022-06-15'
 type: book
 weight: 30
 highlight: true
