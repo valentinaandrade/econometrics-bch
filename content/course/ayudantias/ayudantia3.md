@@ -1,5 +1,5 @@
 ---
-title: Heterocedasticidad
+title: Ayudantia 3. Heterocedasticidad
 date: '2022-06-13'
 type: book
 weight: 40

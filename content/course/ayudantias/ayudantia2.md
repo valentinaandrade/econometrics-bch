@@ -1,5 +1,5 @@
 ---
-title: Regresión múltiple
+title: Ayudantia 2. Regresión múltiple
 date: '2022-06-12'
 type: book
 weight: 40

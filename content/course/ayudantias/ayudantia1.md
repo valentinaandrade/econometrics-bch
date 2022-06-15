@@ -1,5 +1,5 @@
 ---
-title: Estimación MCO
+title: Ayudantia 1. Estimación MCO
 date: '2022-06-11'
 type: book
 weight: 20
