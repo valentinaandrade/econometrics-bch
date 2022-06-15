@@ -1,16 +1,14 @@
 ---
-title: Transformaciones funcionales
-date: '2022-06-15'
+title: Heterocedasticidad
+date: '2022-06-13'
 type: book
-weight: 30
-highlight: true
+weight: 40
+math: true
 tags:
-  - Stata
+  - MCO
+  - Regresion Multiple
+  - Modelo restringuido
 ---
 
+{{< cta cta_text="Descargar ayudantía 3" cta_link="https://econometrics-bch.netlify.app/ayudantias/ayudantia_3.pdf" >}}
 
-## Quiz
-
-{{< spoiler text="Quiz" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-{{< /spoiler >}}
