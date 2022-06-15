@@ -12,3 +12,7 @@ tags:
 
 {{< cta cta_text="Descargar ayudantía 2" cta_link="https://econometrics-bch.netlify.app/ayudantias/ayudantia_2.pdf" >}}
 
+
+{{< cta cta_text="Desarrollo ayudantia 2" cta_link="https://econometrics-bch.netlify.app/ayudantias/desarrolloayudantia_2.pdf" >}}
+
+{{< cta cta_text="Resumen interpretacion" cta_link="https://econometrics-bch.netlify.app/ayudantias/ayu2_interpretar.pdf" >}}
