@@ -1,6 +1,6 @@
 ---
 title: Clase 6
-date: '2022-06-15'
+date: '2022-06-16'
 type: book
 weight: 20
 ---
