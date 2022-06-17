@@ -10,3 +10,6 @@ tags:
 
 {{< cta cta_text="Descargar ayudantía 4" cta_link="https://econometrics-bch.netlify.app/ayudantias/ayudantia_4.pdf" >}}
 
+{{< cta cta_text="Desarrollo ayudantía 4" cta_link="https://econometrics-bch.netlify.app/ayudantias/desarrolloayudantia_4.pdf" >}}
+
+
