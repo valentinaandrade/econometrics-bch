@@ -13,3 +13,7 @@ tags:
 {{< cta cta_text="Resumen Inferencia" cta_link="https://econometrics-bch.netlify.app/resumenes/inferencia.pdf" >}}
 
 {{< cta cta_text="Resumen Variables Cualitativas" cta_link="https://econometrics-bch.netlify.app/resumenes/variablescualitativas.pdf" >}}
+
+{{< cta cta_text="Resumen Errores de Medición" cta_link="https://econometrics-bch.netlify.app/resumenes/errormedicion.pdf" >}}
+
+{{< cta cta_text="Resumen Selección Observables" cta_link="https://econometrics-bch.netlify.app/resumenes/seleccion_observables.pdf" >}}
